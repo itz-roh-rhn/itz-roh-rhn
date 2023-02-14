@@ -42,5 +42,6 @@ Python, Java, MySQL, HTML, CSS...
 ---
 
 [![](https://visitcount.itsvg.in/api?id=itz-roh-rhn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=itz-roh-rhn&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 
