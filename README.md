@@ -35,9 +35,10 @@ Python, Java, MySQL, HTML, CSS...
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itz-roh-rhn&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-roh-rhn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itz-roh-rhn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
 
 [![](https://visitcount.itsvg.in/api?id=itz-roh-rhn&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
